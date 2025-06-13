@@ -1,4 +1,4 @@
-## ource_CNN.py  
+## Source_CNN.py  
 input data.S3.csv <- real_data.csv  
 train(epoch = 1000, batch_size = 8)  
 -> cnn_Ti.h5  
